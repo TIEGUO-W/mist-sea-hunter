@@ -1,0 +1,28 @@
+Assets License — CC BY-NC 4.0
+
+Everything under assets/ (including the storm panorama, the sea monster
+portraits, the procedurally baked audio sources, and the derived materials)
+is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License.
+
+You are free to:
+  Share  — copy and redistribute the material in any medium or format
+  Adapt  — remix, transform, and build upon the material
+
+Under the following terms:
+  Attribution   — You must give appropriate credit to TIEGUO-W, provide a
+                  link to the license, and indicate if changes were made.
+  NonCommercial — You may not use the material for commercial purposes.
+  No additional restrictions — You may not apply legal terms or technological
+                  measures that legally restrict others from doing anything
+                  the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+This means: the code is fully open source (MIT) — fork it, learn from it,
+ship your own game with it. The art and audio are shared for study and
+non-commercial use only. If you want a commercial license for the assets,
+open an issue.
+
+Screenshots under docs/shots/ are derived from the game and covered by this
+same license.

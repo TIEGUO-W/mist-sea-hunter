@@ -68,3 +68,11 @@ godot --path <项目> --resolution 1600x900 -- \
 建模观察台：`godot --path <项目> res://tools/model_stage.tscn -- --shot=... --angle=hero|front|side|low`。
 
 美术方向与每一轮的约束记录在 [docs/ART-DIRECTION.md](docs/ART-DIRECTION.md)（含「右舷姿态被公平性用例锁死」这一条不可回退的约定）。
+
+
+## 许可证
+
+- **代码**（`scripts/` `shaders/` `tests/` `tools/` `scenes/` `project.godot`）：[MIT](LICENSE)
+- **美术与音频**（`assets/` `docs/shots/`）：[CC BY-NC 4.0](LICENSE-ASSETS) —— 可自由学习、修改、非商业使用，需署名
+
+想改成整套 MIT 或 Apache-2.0，删掉这两个文件换一份即可。
