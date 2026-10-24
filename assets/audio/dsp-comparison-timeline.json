@@ -1,0 +1,68 @@
+[
+  {
+    "cue": "ballista",
+    "group": "legacy",
+    "note": "RMS-matched where peak headroom permits",
+    "seconds": 0.28,
+    "start": 0.349977324263039
+  },
+  {
+    "cue": "cannon",
+    "group": "legacy",
+    "note": "RMS-matched where peak headroom permits",
+    "seconds": 0.649977324263039,
+    "start": 0.979954648526077
+  },
+  {
+    "cue": "harpoon",
+    "group": "legacy",
+    "note": "RMS-matched where peak headroom permits",
+    "seconds": 0.28,
+    "start": 1.97990929705215
+  },
+  {
+    "cue": "ballista",
+    "group": "new",
+    "note": "RMS-matched where peak headroom permits",
+    "seconds": 0.430022675736961,
+    "start": 2.60988662131519
+  },
+  {
+    "cue": "cannon",
+    "group": "new",
+    "note": "RMS-matched where peak headroom permits",
+    "seconds": 1.5,
+    "start": 3.38988662131519
+  },
+  {
+    "cue": "harpoon",
+    "group": "new",
+    "note": "RMS-matched where peak headroom permits",
+    "seconds": 0.750022675736961,
+    "start": 5.23986394557823
+  },
+  {
+    "cue": "body_hit",
+    "group": "new",
+    "seconds": 0.58,
+    "start": 6.33986394557823
+  },
+  {
+    "cue": "lightning",
+    "group": "new",
+    "seconds": 1.65002267573696,
+    "start": 7.26984126984127
+  },
+  {
+    "cue": "parry",
+    "group": "new",
+    "seconds": 0.850022675736961,
+    "start": 9.26984126984127
+  },
+  {
+    "cue": "environment_low_level",
+    "group": "new",
+    "seconds": 4.0,
+    "start": 10.4698412698413
+  }
+]

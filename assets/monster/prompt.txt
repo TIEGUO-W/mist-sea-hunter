@@ -1,0 +1,11 @@
+Generation mode: built-in image_gen.imagegen (not CLI).
+Asset: abyss-scales.png
+Purpose: PBR basecolor texture for a real-time 3D boss mesh, reference image used for material style only.
+
+Use case: photorealistic-natural
+Asset type: seamless square tileable PBR albedo/basecolor texture for a real-time 3D ancient abyssal dragon.
+Reference image 1: surface style reference ONLY, specifically its dark rugged rocklike reptile scale material. Do not preserve or reproduce the reference creature, composition, lighting, face, eyes, glowing markings, horns or environment.
+Primary request: a single square seamless texture of tightly overlapped irregular jagged ancient abyssal dragon scale plates, deep narrow fissures between them. Fine pores, layered mineral-like ridges, granular rough hide, abraded worn edges, subtle salt stains in crevices. Slate blue-black surface with restrained muted purple undertones. A dense field of many medium and small irregular scales, every scale detailed, physically plausible macro photographic material surface.
+Composition/projection: orthographic directly overhead top-down flat texture scan, evenly fills the entire square canvas, no perspective, no background, no focal point. Matching opposite edges, tileable seamlessly in X and Y.
+Lighting: neutral even flat diffuse shadowless illumination for a PBR BASECOLOR map. No baked reflections, no directional highlights, no specular spots or cast shadows. Preserve discernible fine surface tonal texture at a practical exposure.
+Constraints: this is only a material texture, not a monster portrait or illustration. No eyes, face, mouth, teeth, limbs, body outline, glowing runes, light dots, metallic chrome, text, watermark, UI, frame, border. No cartoon, no stylized flat paint, no painting. Photorealistic tactile detailed scale surface.

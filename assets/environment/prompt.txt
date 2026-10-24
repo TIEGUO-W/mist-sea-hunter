@@ -1,0 +1,9 @@
+Generation mode: built-in image_gen.imagegen (not CLI).
+Asset: storm-panorama.png
+Purpose: bitmap sky environment for a real-time 3D scene.
+
+Use case: photorealistic-natural
+Asset type: game production sky texture for Godot PanoramaSkyMaterial, a 360-degree equirectangular latitude-longitude panoramic bitmap, EXACT 2:1 width:height, high resolution.
+Primary request: physically convincing dense storm clouds over a dark ocean at night, photographic realism, dense layered stratocumulus and turbulent low rain clouds, visible fine cloud texture and depth. A subtle broken opening shows cold moon silver-blue cloud edges; an inconspicuous partially hidden small moon toward left front. Dark slate blue and deep grey color palette, realistic exposure with discernible cloud layers, foreboding oppressive nautical night.
+Composition/projection: full seamless horizontal 360 degrees, 180 degrees vertical spherical panorama. The distant level haze horizon is at 75 percent of image height from top. The lower quarter is uniform dark ocean mist fading into darkness, no detailed foreground. Pole-aware zenith, no distortion or obvious seam at top, matching left and right edges for horizontal wrapping.
+Constraints: only sky, clouds and distant dark water fog. No land, no islands, no rocks, no monsters, no ships, no people. No baked light shafts and no exaggerated lightning. No text, UI, border, watermark or logos. NOT flat monochrome, NOT stars or outer space, NOT purple neon, NOT pixel art, NOT cartoon, NOT painting. This is a usable lighting environment bitmap for a real-time 3D scene, not concept art or a composed game screenshot.
